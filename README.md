@@ -1,3 +1,3 @@
 # Bill Diary OCR engine
 
-This is a OCR engine which can recognize specific characters from receipt (bill). We are using openCV and numpy for segmentation of characters and deep neural nets for recognition.
+Models: https://drive.google.com/drive/folders/0B1NHqh2j_ZdCXzdVQUZ2ZWVCOFE?usp=sharing
