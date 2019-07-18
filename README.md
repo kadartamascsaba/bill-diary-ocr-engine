@@ -4,4 +4,4 @@ This is a OCR engine which can recognize specific characters from receipt (bill)
 
 This is my BSc thesis which title is "Information extraction from receipts using machine learning". 
 
-Models: https://drive.google.com/drive/folders/0B1NHqh2j_ZdCXzdVQUZ2ZWVCOFE?usp=sharing
+Models: https://drive.google.com/drive/folders/0B1NHqh2j_ZdCd1BUaDV1bFVmbms?usp=sharing
